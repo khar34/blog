@@ -1,0 +1,7 @@
+[submodule "KaaruRecords/themes/hugo-theme-yue"]
+	path = KaaruRecords/themes/hugo-theme-yue
+	url = https://github.com/CyrusYip/hugo-theme-yue
+[submodule "KaaruRecords/public"]
+	path = KaaruRecords/public
+	url = https://github.com/khar34/khar34.github.io
+	branch = main

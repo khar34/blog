@@ -1,0 +1,4 @@
+baseURL = 'https://khar34.github.io/'
+languageCode = 'en-us'
+title = 'Welcome ~'
+theme = "hugo-theme-yue"
