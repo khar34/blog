@@ -1,0 +1,4 @@
+[submodule "KaaruRecords/public"]
+	path = KaaruRecords/public
+	url = https://github.com/khar34/khar34.github.io.git
+	branch = main
